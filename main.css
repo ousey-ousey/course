@@ -1,7 +1,8 @@
 div{
     width: 500px;
     height: 400px;
-    background-color: blueviolet;
+    background-color: red;
     animation: reverse ;
     animation-duration: unset;
+
 }
